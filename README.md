@@ -1,3 +1,5 @@
+# myrubyblog
+first RoR app where FE is only generated through erb files
 # README
 
 This README would normally document whatever steps are necessary to get the
